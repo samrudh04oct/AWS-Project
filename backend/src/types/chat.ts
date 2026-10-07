@@ -21,3 +21,4 @@ export interface ErrorResponse {
 export interface HealthResponse {
   status: 'ok';
 }
+

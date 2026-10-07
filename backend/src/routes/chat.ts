@@ -82,3 +82,4 @@ chatRouter.post('/chat', async (req: Request<unknown, unknown, ChatRequest>, res
     error: 'Message cannot be empty',
   });
 });
+

@@ -246,3 +246,4 @@ Phase 1 is explicitly designed to remain clean and extensible without rewriting:
    The frontend simply exchanges `{ messages: [...] }` with the backend. When long-term memory is active in Phase 2, the frontend contract remains stable, while optionally receiving enriched metadata (e.g. recalled memories).
 3. **Stateless Backend:**
    No session affinity is stored in Express, making it directly portable to AWS Lambda and API Gateway when transitioning to serverless deployment.
+

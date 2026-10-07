@@ -22,3 +22,4 @@ export interface ChatApiResponse {
 export interface ChatApiError {
   error: string;
 }
+

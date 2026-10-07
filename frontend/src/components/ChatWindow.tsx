@@ -130,3 +130,4 @@ export const ChatWindow: React.FC<ChatWindowProps> = ({
     </div>
   );
 };
+

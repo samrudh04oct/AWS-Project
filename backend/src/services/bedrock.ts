@@ -82,3 +82,4 @@ export class BedrockService {
 
 // Export default singleton instance
 export const bedrockService = new BedrockService();
+

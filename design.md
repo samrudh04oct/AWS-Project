@@ -132,3 +132,4 @@ The **Long-Term Memory Assistant** is an intelligent conversational agent engine
 - **Aria Labels:** Interactive buttons (`aria-label="Send message"`, `aria-label="User Avatar"`) are labeled for screen readers.
 - **Keyboard Navigation:** Full tab order throughout header, prompts, textarea, and send button.
 - **Focus Indicators:** High-visibility Indigo focus rings (`focus-within:ring-indigo-500/30`) for keyboard navigation.
+
